@@ -53,13 +53,11 @@ stock-price-prediction-rnn-lstm/
 
 ## 📉 Results
 
-             FINAL MODEL COMPARISON TABLE
-=================================================================
-Model                        RMSE          MAE    Training Time
------------------------------------------------------------------
-Simple RNN                14.5522      12.1385           3.83s
-LSTM                       5.7250       4.6083           6.62s
-LSTM + Attention           7.0784       5.7444           7.00s
+| Model | RMSE | MAE | Training Time |
+|-------|------|-----|---------------|
+| Simple RNN | 14.5522 | 12.1385 | 3.83s |
+| LSTM | 5.7250 | 4.6083 | 6.62s |
+| LSTM + Attention | 7.0784 | 5.7444 | 7.00s |
 
 > Fill in your actual results after running the notebook.
 
